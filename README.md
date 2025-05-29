@@ -68,8 +68,8 @@ This portfolio was designed to feel cinematic and bold — like stepping into a 
 
   <h2>📬 Contact</h2>
   <p>💼 Built by <strong>Your Name</strong></p>
-  <p>📧 Email: <a href="workwithsankalp@email.com">your@email.com</a></p>
-  <p>🐱 GitHub: <a href="https://github.com/GuardiansOfCode" target="_blank">@yourusername</a></p>
+  <p>📧 Email: <a href="workwithsankalp@email.com">workwithsankalp008@gmail.com</a></p>
+  <p>🐱 GitHub: <a href="https://github.com/GuardiansOfCode" target="_blank">@GuardiansOfCode</a></p>
 
   <h2>🦇 Credits</h2>
   <p>🎨 Background and assets: Custom / Gotham-inspired artwork</p>

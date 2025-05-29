@@ -68,38 +68,11 @@ This portfolio was designed to feel cinematic and bold — like stepping into a 
 
   <h2>📬 Contact</h2>
   <p>💼 Built by <strong>Your Name</strong></p>
-  <p>📧 Email: <a href="mailto:your@email.com">your@email.com</a></p>
-  <p>🐱 GitHub: <a href="https://github.com/yourusername" target="_blank">@yourusername</a></p>
+  <p>📧 Email: <a href="workwithsankalp@email.com">your@email.com</a></p>
+  <p>🐱 GitHub: <a href="https://github.com/GuardiansOfCode" target="_blank">@yourusername</a></p>
 
   <h2>🦇 Credits</h2>
   <p>🎨 Background and assets: Custom / Gotham-inspired artwork</p>
   <p>✨ Inspired by: Batman, Gotham, and developers who code after midnight</p>
 
-  <h2>📜 License</h2>
-  <p>MIT License.<br />
-  <em>“Use it wisely, like Bruce would. Or Alfred will find you.”</em></p>
-</section>
-
-
-.info-section {
-  background-color: rgba(0, 0, 0, 0.7);
-  padding: 40px 20px;
-  margin-top: 50px;
-  color: #f1f1f1;
-  border-top: 2px solid #444;
-  font-family: 'Orbitron', sans-serif;
-}
-
-.info-section h2 {
-  color: #ffe600; /* Yellow like the Bat Signal */
-  margin-top: 30px;
-}
-
-.info-section a {
-  color: #4db2ff;
-  text-decoration: none;
-}
-
-.info-section a:hover {
-  text-decoration: underline;
-}
+  

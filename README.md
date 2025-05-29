@@ -67,7 +67,7 @@ This portfolio was designed to feel cinematic and bold — like stepping into a 
   <p>This is a personal portfolio project. But if you’re another hero with a mask and want to contribute, feel free to <strong>fork</strong> and send a <strong>pull request</strong>!</p>
 
   <h2>📬 Contact</h2>
-  <p>💼 Built by <strong>Your Name</strong></p>
+  <p>💼 Built by <strong>Sankalp</strong></p>
   <p>📧 Email: <a href="workwithsankalp@email.com">workwithsankalp008@gmail.com</a></p>
   <p>🐱 GitHub: <a href="https://github.com/GuardiansOfCode" target="_blank">@GuardiansOfCode</a></p>
 

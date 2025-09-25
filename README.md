@@ -68,8 +68,8 @@ This portfolio was designed to feel cinematic and bold — like stepping into a 
 
   <h2>📬 Contact</h2>
   <p>💼 Built by <strong>Sankalp</strong></p>
-  <p>📧 Email: <a href="workwithsankalp@email.com">workwithsankalp008@gmail.com</a></p>
-  <p>🐱 GitHub: <a href="https://github.com/GuardiansOfCode" target="_blank">@GuardiansOfCode</a></p>
+  <p>📧 Email: <a href="sankalpaiera@gmail.com">sankalpaiera@gmail.com</a></p>
+  <p>🐱 GitHub: <a href="https://github.com/TheKnightProtocol" target="_blank">@TheKnightProtocol</a></p>
 
   <h2>🦇 Credits</h2>
   <p>🎨 Background and assets: Custom / Gotham-inspired artwork</p>
